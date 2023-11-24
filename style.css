@@ -1,0 +1,46 @@
+body {
+    font-family: sans-serif;
+            color: #42352b;
+    background-image:linear-gradient(rgb(217, 217, 147),rgb(139, 180, 139),rgb(197, 56, 56),rgb(224, 176, 88));
+}
+
+h1{
+    color: rgb(44, 87, 127);
+    text-align: center;
+    text-shadow: 3px 3px 3px rgb(239, 239, 251);
+}
+.green{
+        border-radius: 80px;
+    border: 6px double rgb(193, 207, 113);
+    margin-right:10px ;
+}
+p{
+    font-size: 20px;
+    border: 4px dotted rgb(193, 207, 113);
+    width: 50%;
+}
+img:hover{
+    width: 200px;
+    height: 200px;
+    transition: 2s;
+    border: 4px dashed white;
+}
+p:hover{
+    transition: 2s;
+    border: 4px dashed white;
+}
+.p{
+    border: 0px;
+}
+.lesson{
+    text-decoration: none;
+    color: rgb(59, 50, 39);
+    background-color: rgb(133, 91, 137);
+    padding: 5px;
+    border-radius: 6px;
+    margin-left: 100px;
+}
+.map:hover{
+    border: 0px;
+ 
+}
